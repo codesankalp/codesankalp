@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Sankalp ([codesankalp][website]) 👋
 
-<!--
-**codesankalp/codesankalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://i.ibb.co/jVBGJbN/my-image.png" alt="my-image" border="0" style="border-radius: 50%;width:140px" />][website]
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... expertising my skills. 
+- 🌱 I’m currently learning .... (a student + contributor)
+- 👯 I’m looking to collaborate on ... community projects! 
+- 🤔 I’m looking for help with ... anything open source + community development. 
+- 💬 Ask me about ... Django, Python, or Open Source. 
+- 📫 How to reach me: ... [email][email], [Twitter][twitter], or [LinkedIn][linkedin]. 
+- 😄 Pronouns: ... he/him
+- 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
+
+__Note: This is a short introduction and doesn't contain all my skills,and experience.For more details contact me.__
+[website]: https://github.com/codesankalp
+[twitter]: https://twitter.com/codesankalp
+[instagram]: https://www.instagram.com/codesankalp
+[linkedin]: https://linkedin.com/in/codesankalp
+[email]: mailto:sankalp123427@gmail.com
