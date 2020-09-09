@@ -1,6 +1,6 @@
 ### Hi there, I'm Sankalp ([codesankalp][website]) 👋
 
-[<img src="https://i.ibb.co/jVBGJbN/my-image.png" alt="my-image" border="0" style="border-radius: 50%;width:140px" />][website]
+[<img align="left" alt="my-image" style="border-radius: 50%;width:140px" src="https://i.ibb.co/jVBGJbN/my-image.png"  />][website]
 
 Here are some ideas to get you started:
 
