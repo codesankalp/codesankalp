@@ -1,7 +1,5 @@
 ### Hi there, I'm Sankalp ([codesankalp][website]) 👋
 
-[<img align="left" alt="my-image" style="border-radius: 50%;width:140px" src="https://i.ibb.co/jVBGJbN/my-image.png"  />][website]
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... expertising my skills. 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
 
 __Note: This is a short introduction and doesn't contain all my skills,and experience.For more details contact me.__
+
 [website]: https://github.com/codesankalp
 [twitter]: https://twitter.com/codesankalp
 [instagram]: https://www.instagram.com/codesankalp
