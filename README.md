@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 __Note: This is a short introduction and doesn't contain all my skills,and experience.For more details contact me.__
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesankalp&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesankalp&layout=compact&hide=tsql&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=codesankalp&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesankalp&layout=compact&hide=tsql&show_icons=true" />
 
 [website]: https://github.com/codesankalp
 [twitter]: https://twitter.com/codesankalp
