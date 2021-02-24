@@ -1,4 +1,4 @@
-### Hi there, I'm Sankalp ([codesankalp][website]) 👋
+### Hi there, I'm Sankalp ((My Website)[https://codesankalp.github.io/]) 👋
 
 Here are some ideas to get you started:
 
@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning .... (a student + contributor)
 - 👯 I’m looking to collaborate on ... community projects! 
 - 🤔 I’m looking for help with ... anything open source + community development. 
-- 💬 Ask me about ... Django, Python, or Open Source. 
+- 💬 Ask me about ... Django, Python, React-JS or Open Source. 
 - 📫 How to reach me: ... [email][email], [Twitter][twitter], or [LinkedIn][linkedin]. 
 - 😄 Pronouns: ... he/him
 - 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
