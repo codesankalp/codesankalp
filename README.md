@@ -16,7 +16,7 @@ __Note: This is a short introduction and doesn't contain all my skills,and exper
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=codesankalp&show_icons=true&count_private=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesankalp&layout=compact&hide=tsql&show_icons=true" />
 
-[website]: https://codesankalp.github.io/
+[website]: https://codesankalp.com/
 [twitter]: https://twitter.com/codesankalp
 [instagram]: https://www.instagram.com/codesankalp
 [linkedin]: https://linkedin.com/in/codesankalp
