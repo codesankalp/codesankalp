@@ -1,23 +1,27 @@
-### Hi there, I'm Sankalp ([codesankalp][website]) 👋
+## Hi there, I'm Sankalp ([codesankalp][website]) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
-Here are some ideas to get you started:
+<br/>
+🔭 <b>I’m currently working on expertizing my skills.</b>
 
-- 🔭 I’m currently working on ... expertising my skills. 
-- 🌱 I’m currently learning .... (a student + contributor)
-- 👯 I’m looking to collaborate on ... community projects! 
-- 🤔 I’m looking for help with ... anything open source + community development. 
-- 💬 Ask me about ... Django, Python, React-JS or Open Source. 
-- 📫 How to reach me: ... [email][email], [Twitter][twitter], or [LinkedIn][linkedin]. 
-- 😄 Pronouns: ... he/him
-- 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
+<hr/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codesankalp&layout=compact&theme=nightowl" alt="wakatime stats of codesankalp"/>
+<img align="right"  width="50%" height="177" alt="github stats for codesankalp" src="https://github-readme-stats.vercel.app/api?username=codesankalp&show_icons=true&count_private=true&theme=nightowl&layout=compact" />
+<img align="right" width="50%" height="177" src="http://github-readme-streak-stats.herokuapp.com/?user=codesankalp&theme=nightowl" alt="streak graph of codesankalp"/>
 
-__Note: This is a short introduction and doesn't contain all my skills,and experience.For more details contact me.__
+<img src="https://activity-graph.herokuapp.com/graph?username=codesankalp&theme=xcode" alt="Sankalp's (codesankalp) GitHub activity graph"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=codesankalp&show_icons=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesankalp&layout=compact&hide=tsql&show_icons=true" />
+<hr/>
+
+<p align="center">
+<a href="https://linkedin.com/in/codesankalp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn_codesankalp"/></a>
+<a href="https://twitter.com/codesankalp" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/codesankalp?logo=twitter&style=for-the-badge" alt="twitter_codesankalp" /></a>
+<a href="mailto:sankalp123427@gmail.com"><img align="center" src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="codesankalp_email"/></a>
+</p>
+<p align ="center">&nbsp;
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=codesankalp.codesankalp" alt="codesankalp visitors"/>
 
 [website]: https://codesankalp.com/
 [twitter]: https://twitter.com/codesankalp
-[instagram]: https://www.instagram.com/codesankalp
 [linkedin]: https://linkedin.com/in/codesankalp
+[github]:https://github.com/codesankalp
 [email]: mailto:sankalp123427@gmail.com
