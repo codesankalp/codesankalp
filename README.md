@@ -20,7 +20,7 @@
 <p align ="center">&nbsp;
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=codesankalp.codesankalp" alt="codesankalp visitors"/>
 
-[website]: https://codesankalp.com/
+[website]: https://codesankalp.bio.link/
 [twitter]: https://twitter.com/codesankalp
 [linkedin]: https://linkedin.com/in/codesankalp
 [github]:https://github.com/codesankalp
