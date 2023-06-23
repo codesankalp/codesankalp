@@ -5,7 +5,7 @@
 
 <hr/>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codesankalp&layout=compact&theme=nightowl" alt="wakatime stats of codesankalp"/>
-<img align="right"  width="50%" height="177" alt="github stats for codesankalp" src="https://github-readme-stats.vercel.app/api?username=codesankalp&show_icons=true&count_private=true&theme=nightowl&layout=compact" />
+<img align="right"  width="50%" height="177" alt="github stats for codesankalp" src="https://github-readme-stats-sumit0k.vercel.app/api?username=codesankalp&show_icons=true&count_private=true&theme=nightowl&layout=compact" />
 <img align="right" width="50%" height="177" src="http://github-readme-streak-stats.herokuapp.com/?user=codesankalp&theme=nightowl" alt="streak graph of codesankalp"/>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codesankalp&theme=xcode" alt="Sankalp's (codesankalp) GitHub activity graph"/>
