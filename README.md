@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=33CFEF&size=30&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I%27m+Sankalp+👋🏻;Software+Engineer | OSS Contributor;Full-Stack+%26+Infra+Engineer" alt="Typing intro for Sankalp" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=33CFEF&size=30&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I%27m+Sankalp;Software+Engineer+%7C+OSS+Contributor;Full-Stack+%26+Infra+Engineer" alt="Typing intro for Sankalp" />
 </p>
 
 ---
@@ -24,15 +24,18 @@ I am a pragmatic, full-stack engineer focused on building performant, secure, an
 
 ### GitHub and Coding Stats
 
-<p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub stats for codesankalp" />
-  <img src="https://streak-stats.demolab.com?user=codesankalp&hide_border=true&background=33CFEF&ring=33CFEF&fire=33CFEF&currStreakLabel=33CFEF&sideLabels=33CFEF&currStreakNum=33CFEF&dates=33CFEF" height="170" alt="GitHub streak stats for codesankalp" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" height="170" alt="Top languages for codesankalp" />
-  <img src="./profile/wakatime.svg" height="170" alt="WakaTime stats for codesankalp" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="./profile/wakatime.svg" height="350" alt="WakaTime stats for codesankalp" />
+    </td>
+    <td>
+      <img src="./profile/stats.svg" height="170" alt="GitHub stats for codesankalp" />
+      <br />
+      <img src="https://streak-stats.demolab.com?user=codesankalp&hide_border=true&background=33CFEF&ring=33CFEF&fire=33CFEF&currStreakLabel=33CFEF&sideLabels=33CFEF&currStreakNum=33CFEF&dates=33CFEF" height="170" alt="GitHub streak stats for codesankalp" />
+    </td>
+  </tr>
+</table>
 
 ---
 
