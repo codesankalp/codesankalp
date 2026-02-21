@@ -27,12 +27,12 @@ I am a pragmatic, full-stack engineer focused on building performant, secure, an
 <table align="center">
   <tr>
     <td>
-      <img src="./profile/wakatime.svg" height="350" alt="WakaTime stats for codesankalp" />
+      <img src="./profile/wakatime.svg" height="390" alt="WakaTime stats for codesankalp" />
     </td>
     <td>
       <img src="./profile/stats.svg" height="170" alt="GitHub stats for codesankalp" />
       <br />
-      <img src="https://streak-stats.demolab.com?user=codesankalp&hide_border=true&background=33CFEF&ring=33CFEF&fire=33CFEF&currStreakLabel=33CFEF&sideLabels=33CFEF&currStreakNum=33CFEF&dates=33CFEF" height="170" alt="GitHub streak stats for codesankalp" />
+      <img src="https://streak-stats.demolab.com/?user=codesankalp&theme=dark-smoky" height="170" alt="GitHub streak stats for codesankalp" />
     </td>
   </tr>
 </table>
