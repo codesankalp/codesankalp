@@ -11,7 +11,7 @@ I am a pragmatic, full-stack engineer focused on building performant, secure, an
 - Senior Software Engineer at HackerRank, working on core code execution platform and cloud based IDE infrastructure.
 - Open-source contributor and GSoC mentor at OpenWISP.
 - Curious about distributed systems, reliability engineering, and developer experience.
-- Website: **[codesankalp.com](https://codesankalp.com)**.
+- Website: **[codesankalp.com][website]**.
 
 ### Tech Stack
 
@@ -41,14 +41,12 @@ I am a pragmatic, full-stack engineer focused on building performant, secure, an
 
 <p align="center">
   <a href="https://codesankalp.com"><b>Visit my portfolio</b></a> •
-  <a href="https://codesankalp.com/blog"><b>Read my blog</b></a> •
-  <a href="https://github.com/codesankalp"><b>Explore my repositories</b></a>
+  <a href="https://codesankalp.com/blog"><b>Read my blog</b></a>
 </p>
 
 <p align="center">
   <a href="https://codesankalp.com"><img src="https://img.shields.io/badge/Website-codesankalp.com-33CFEF?style=for-the-badge&logo=google-chrome&logoColor=33CFEF" alt="Website"></a>
   <a href="https://codesankalp.com/blog"><img src="https://img.shields.io/badge/Blog-Latest%20Posts-33CFEF?style=for-the-badge&logo=hashnode&logoColor=33CFEF" alt="Blog"></a>
-  <a href="https://github.com/codesankalp"><img src="https://img.shields.io/badge/GitHub-codesankalp-33CFEF?style=for-the-badge&logo=github&logoColor=33CFEF" alt="GitHub"></a>
 </p>
 
 <p align="center">
@@ -60,3 +58,9 @@ I am a pragmatic, full-stack engineer focused on building performant, secure, an
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codesankalp.codesankalp" alt="Visitor badge for codesankalp" />
 </p>
+
+[website]: https://codesankalp.com
+[blog]: https://codesankalp.com/blog
+[linkedin]: https://www.linkedin.com/in/codesankalp
+[x]: https://x.com/codesankalp
+[email]: mailto:sankalp.nex@gmail.com
