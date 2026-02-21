@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a pragmatic, backend-heavy full-stack engineer focused on building performant, secure, and scalable systems.
+I am a pragmatic, full-stack engineer focused on building performant, secure, and scalable systems.
 
 - Senior Software Engineer at HackerRank, working on core code execution platform and cloud based IDE infrastructure.
 - Open-source contributor and GSoC mentor at OpenWISP.
