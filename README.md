@@ -1,63 +1,59 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6FF73FFF&size=30&center=true&vCenter=true&width=700&height=70&lines=Hey+There+👋🏻+I'm+Sankalp;Software+Engineer+%7C+Problem+Solver+💻;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=33CFEF&size=30&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I%27m+Sankalp+👋🏻;Software+Engineer | OSS Contributor;Full-Stack+%26+Infra+Engineer" alt="Typing intro for Sankalp" />
 </p>
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-<b>👨‍💻 About Me</b>
-<p>I'm a pragmatic software engineer with a love for problem-solving and building efficient, scalable systems. My expertise spans backend development, infrastructure management, and fullstack development. I enjoy diving into complex challenges and finding solutions that drive impact.</p>
+### About Me
 
+I am a pragmatic, backend-heavy full-stack engineer focused on building performant, secure, and scalable systems.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+- Senior Software Engineer at HackerRank, working on core code execution platform and cloud based IDE infrastructure.
+- Open-source contributor and GSoC mentor at OpenWISP.
+- Curious about distributed systems, reliability engineering, and developer experience.
+- Website: **[codesankalp.com](https://codesankalp.com)**.
 
-<details>
-  <summary><b>🔧 Technologies & Tools</b></summary>
-  <ul>
-    <li><b>Languages:</b> Golang, Python, Ruby, JavaScript, Bash</li>
-    <li><b>Frameworks:</b> Ruby on Rails, Django, Flask, React</li>
-    <li><b>Tools:</b> Kubernetes, Docker, Terraform</li>
-    <li><b>CI/CD:</b> Jenkins, GitHub Actions</li>
-  </ul>
-</details>
+### Tech Stack
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+- Languages: `Go`, `Python`, `Ruby`, `TypeScript`, `JavaScript`, `SQL`, `Bash`
+- Frameworks: `Django`, `Flask`, `Ruby on Rails`, `React`, `Next.js`, `Express.js`
+- Infra/Platform: `Kubernetes`, `Docker`, `Terraform`, `AWS`, `GCP`, `Redis`, `Kafka`, `PostgreSQL`, `MySQL`
+- Observability: `Prometheus`, `Grafana`, `ELK`
 
-<details>
-  <summary><b>📊 WakaTime Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codesankalp&layout=compact&theme=nightowl" alt="WakaTime stats for codesankalp"/>
-  </p>
-</details>
+---
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<details>
-  <summary><b>📈 GitHub Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats-sumit0k.vercel.app/api?username=codesankalp&show_icons=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub stats for codesankalp"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=codesankalp&theme=nightowl" alt="GitHub streak stats for codesankalp"/>
-  </p>
-</details>
-
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<details>
-  <summary><b>🌐 Connect with Me</b></summary>
-  <p align="center">
-    <a href="https://linkedin.com/in/codesankalp" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn: codesankalp"/></a>
-    <a href="https://twitter.com/codesankalp" target="blank"><img src="https://img.shields.io/twitter/follow/codesankalp" alt="Twitter: codesankalp" /></a>
-    <a href="mailto:sankalp123427@gmail.com"><img src="https://img.shields.io/badge/gmail-d14836?&logo=gmail&logoColor=white" alt="Email: sankalp123427@gmail.com"/></a>
-  </p>
-</details>
-
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+### GitHub and Coding Stats
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codesankalp.codesankalp" alt="Visitor badge for codesankalp"/>
+  <img src="./profile/stats.svg" height="170" alt="GitHub stats for codesankalp" />
+  <img src="https://streak-stats.demolab.com?user=codesankalp&hide_border=true&background=33CFEF&ring=33CFEF&fire=33CFEF&currStreakLabel=33CFEF&sideLabels=33CFEF&currStreakNum=33CFEF&dates=33CFEF" height="170" alt="GitHub streak stats for codesankalp" />
 </p>
 
-[website]: https://codesankalp.bio.link/
-[twitter]: https://twitter.com/codesankalp
-[linkedin]: https://linkedin.com/in/codesankalp
-[github]: https://github.com/codesankalp
-[email]: mailto:sankalp123427@gmail.com
+<p align="center">
+  <img src="./profile/top-langs.svg" height="170" alt="Top languages for codesankalp" />
+  <img src="./profile/wakatime.svg" height="170" alt="WakaTime stats for codesankalp" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://codesankalp.com"><b>Visit my portfolio</b></a> •
+  <a href="https://codesankalp.com/blog"><b>Read my blog</b></a> •
+  <a href="https://github.com/codesankalp"><b>Explore my repositories</b></a>
+</p>
+
+<p align="center">
+  <a href="https://codesankalp.com"><img src="https://img.shields.io/badge/Website-codesankalp.com-33CFEF?style=for-the-badge&logo=google-chrome&logoColor=33CFEF" alt="Website"></a>
+  <a href="https://codesankalp.com/blog"><img src="https://img.shields.io/badge/Blog-Latest%20Posts-33CFEF?style=for-the-badge&logo=hashnode&logoColor=33CFEF" alt="Blog"></a>
+  <a href="https://github.com/codesankalp"><img src="https://img.shields.io/badge/GitHub-codesankalp-33CFEF?style=for-the-badge&logo=github&logoColor=33CFEF" alt="GitHub"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/codesankalp"><img src="https://img.shields.io/badge/LinkedIn-codesankalp-33CFEF?style=flat-square&logo=linkedin&logoColor=33CFEF" alt="LinkedIn"></a>
+  <a href="https://x.com/codesankalp"><img src="https://img.shields.io/badge/X-@codesankalp-33CFEF?style=flat-square&logo=x&logoColor=33CFEF" alt="X"></a>
+  <a href="mailto:sankalp.nex@gmail.com"><img src="https://img.shields.io/badge/Email-sankalp.nex%40gmail.com-33CFEF?style=flat-square&logo=gmail&logoColor=33CFEF" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codesankalp.codesankalp" alt="Visitor badge for codesankalp" />
+</p>
