@@ -919,7 +919,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 468 hrs 55 mins
+        Other - 468 hrs 56 mins
       </text>
     </g>
   
@@ -968,7 +968,7 @@
     <g transform="translate(25, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 81 hrs 14 mins
+        Bash - 81 hrs 18 mins
       </text>
     </g>
   
