@@ -905,7 +905,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 1,336 hrs 30 mins
+        JavaScript - 1,337 hrs 3 mins
       </text>
     </g>
   
@@ -926,7 +926,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 275 hrs 16 mins
+        YAML - 275 hrs 18 mins
       </text>
     </g>
   
