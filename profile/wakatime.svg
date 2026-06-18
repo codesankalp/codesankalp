@@ -919,14 +919,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 469 hrs 8 mins
+        Other - 469 hrs 15 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 275 hrs 18 mins
+        YAML - 275 hrs 27 mins
       </text>
     </g>
   
@@ -1164,21 +1164,21 @@
     <g transform="translate(25, 500)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Terraform - 1 hr 5 mins
+        SSH Config - 1 hr 6 mins
       </text>
     </g>
   
     <g transform="translate(230, 500)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        ERB - 1 hr 4 mins
+        Terraform - 1 hr 5 mins
       </text>
     </g>
   
     <g transform="translate(25, 525)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SSH Config - 1 hr 3 mins
+        ERB - 1 hr 4 mins
       </text>
     </g>
   
