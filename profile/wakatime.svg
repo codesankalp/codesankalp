@@ -139,7 +139,7 @@
             data-testid="lang-progress"
             x="150.28799999999998"
             y="0"
-            width="104.16"
+            width="104.20649999999999"
             height="8"
             fill="#f1e05a"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="254.44799999999998"
+            x="254.49449999999996"
             y="0"
-            width="72.726"
+            width="72.6795"
             height="8"
             fill="#701516"
           />
@@ -898,14 +898,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 1,947 hrs 21 mins
+        Python - 1,947 hrs 36 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 1,349 hrs 51 mins
+        JavaScript - 1,350 hrs 38 mins
       </text>
     </g>
   
@@ -940,14 +940,14 @@
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 146 hrs 48 mins
+        HTML - 146 hrs 49 mins
       </text>
     </g>
   
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 131 hrs 20 mins
+        JSON - 131 hrs 22 mins
       </text>
     </g>
   
