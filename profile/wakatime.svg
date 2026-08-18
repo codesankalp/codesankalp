@@ -932,14 +932,14 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby - 945 hrs 6 mins
+        Ruby - 945 hrs 17 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 474 hrs 33 mins
+        Other - 474 hrs 48 mins
       </text>
     </g>
   
@@ -967,7 +967,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 131 hrs 33 mins
+        JSON - 131 hrs 41 mins
       </text>
     </g>
   
